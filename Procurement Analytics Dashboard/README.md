@@ -7,15 +7,14 @@ A comprehensive Power BI Procurement Analytics Dashboard designed to monitor pro
 📌 Project Overview
 
 The Procurement Analytics Dashboard provides decision-makers with a centralized view of procurement performance by tracking key metrics such as total spending, savings, supplier performance, compliance rate, defect rate, and delivery lead time.
-
 The dashboard enables procurement teams to:
 
-Monitor procurement spending
-Track supplier performance
-Identify cost-saving opportunities
-Measure supplier compliance
-Analyze monthly procurement trends
-Evaluate procurement categories
+- Monitor procurement spending
+- Track supplier performance
+- Identify cost-saving opportunities
+- Measure supplier compliance
+- Analyze monthly procurement trends
+- Evaluate procurement categories
 🎯 Business Problem
 
 Organizations often struggle to monitor procurement activities across multiple suppliers and categories due to fragmented reporting.
