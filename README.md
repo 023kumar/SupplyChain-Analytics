@@ -163,4 +163,4 @@ Monitor supplier performance
 Improve procurement compliance
 Identify inefficient suppliers
 Optimize procurement strategy
-Support data-driven decision making
+Support data-driven decision making.
