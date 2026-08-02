@@ -27,4 +27,140 @@ Supplier performance monitoring
 Category-wise spending analysis
 Monthly procurement trend analysis
 Savings tracking
-Procurement compliance monitoring
+Procurement compliance monitoring  
+
+  📷 Dashboard Preview Link :- https://github.com/023kumar/SupplyChain-Analytics/blob/main/Screenshot%202026-08-02%20193028.png
+
+  📊 Key Performance Indicators (KPIs)
+KPI	Description
+💰 Total Spending	Total procurement expenditure
+💵 Total Savings	Overall procurement savings
+⚠️ Defect Rate	Percentage of defective procurement items
+✅ Compliance Rate	Supplier compliance percentage
+🚚 Average Delivery Lead Time	Average supplier delivery duration
+📈 Dashboard Features
+Executive KPI Cards
+Total Spending
+Total Savings
+Defect Rate
+Compliance Rate
+Average Delivery Lead Time
+Supplier Performance Analysis
+Total Spending by Supplier
+Supplier-wise Savings
+Compliance Comparison
+Defect Rate Comparison
+Monthly Procurement Trends
+
+Track procurement activity throughout the year.
+
+Includes:
+
+Monthly Spending
+Monthly Savings
+Category Analysis
+
+Analyze spending by procurement category:
+
+Raw Materials
+Office Supplies
+Electronics
+Packaging
+MRO
+Interactive Filters
+
+Users can filter the dashboard using:
+
+Supplier
+Item Category
+Supplier Performance Table
+
+Includes
+
+Supplier Name
+Total Spending
+Total Savings
+Defect Rate
+Compliance Rate
+🛠️ Tools & Technologies
+Power BI Desktop
+Power Query
+DAX
+Data Modeling
+Microsoft Excel
+📂 Dataset
+
+The dataset contains procurement transaction data including:
+
+Supplier Name
+Item Category
+Purchase Amount
+Savings
+Delivery Lead Time
+Defect Rate
+Compliance Rate
+Purchase Date
+📌 Data Analysis Performed
+Procurement Spend Analysis
+Total Spending
+Supplier-wise Spending
+Category-wise Spending
+Savings Analysis
+Total Savings
+Monthly Savings
+Supplier Savings
+Supplier Performance Analysis
+
+Measured suppliers using
+
+Compliance Rate
+Defect Rate
+Delivery Lead Time
+Procurement Spend
+Trend Analysis
+
+Monthly analysis of
+
+Procurement Spending
+Procurement Savings
+📊 Key Insights
+Procurement spending exceeded 45M.
+Total savings reached approximately 3.93M.
+Supplier performance varies significantly across compliance and defect rates.
+Certain procurement categories contribute a larger share of organizational spending.
+Monthly procurement trends reveal fluctuations that can support better planning and budgeting.
+📷 Dashboard Components
+
+✔ KPI Cards
+
+✔ Supplier Spending Bar Chart
+
+✔ Monthly Spending & Savings Trend
+
+✔ Category Distribution
+
+✔ Interactive Slicers
+
+✔ Supplier Performance Table
+
+📚 Skills Demonstrated
+Data Cleaning
+Data Transformation
+Data Modeling
+DAX Measures
+KPI Design
+Dashboard Development
+Business Intelligence
+Procurement Analytics
+Interactive Reporting
+Data Visualization
+📈 Business Value
+
+This dashboard helps procurement managers:
+
+Reduce procurement costs
+Monitor supplier performance
+Improve procurement compliance
+Identify inefficient suppliers
+Optimize procurement strategy
+Support data-driven decision making
