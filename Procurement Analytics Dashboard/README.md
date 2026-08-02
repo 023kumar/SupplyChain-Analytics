@@ -27,7 +27,8 @@ Category-wise spending analysis
 Monthly procurement trend analysis
 Savings tracking
 Procurement compliance monitoring
-📷 Dashboard Preview Link :-  Procurement_Analytics_Dashboard.pdf
+
+📷 Dashboard Preview Link :-  https://github.com/023kumar/SupplyChain-Analytics/blob/main/Procurement%20Analytics%20Dashboard/Procurement_dashboard.pdf
 
 📊 Key Performance Indicators (KPIs)
 
