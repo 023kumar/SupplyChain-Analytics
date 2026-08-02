@@ -27,14 +27,17 @@ Category-wise spending analysis
 Monthly procurement trend analysis
 Savings tracking
 Procurement compliance monitoring
-📷 Dashboard Preview Link :- https://github.com/023kumar/SupplyChain-Analytics/blob/main/Procurement%20Analytics%20Dashboard/Procurement_dashboard.pdf
+📷 Dashboard Preview Link :-  Procurement_Analytics_Dashboard.pdf
+
 📊 Key Performance Indicators (KPIs)
+
 KPI	Description
 💰 Total Spending	Total procurement expenditure
 💵 Total Savings	Overall procurement savings
 ⚠️ Defect Rate	Percentage of defective procurement items
 ✅ Compliance Rate	Supplier compliance percentage
 🚚 Average Delivery Lead Time	Average supplier delivery duration
+
 📈 Dashboard Features
 Executive KPI Cards
 Total Spending
