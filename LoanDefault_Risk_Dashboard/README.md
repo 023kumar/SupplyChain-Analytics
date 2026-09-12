@@ -5,9 +5,8 @@ risk analytics in the banking and fintech domain.
 
 Dashboard Preview
 
-Link :-
+Link :-https://github.com/023kumar/SupplyChain-Analytics/blob/main/LoanDefault_Risk_Dashboard/Loan_default.pdf
 
-Link :-
 
 📌 Project Overview
 
